@@ -4,10 +4,10 @@ from ast import literal_eval
 
 class Config:
     AS_DOCUMENT = False
-    AUTHORIZED_CHATS = ""
+    AUTHORIZED_CHATS = "8023740449"
     BASE_URL = ""
     BASE_URL_PORT = 80
-    BOT_TOKEN = ""
+    BOT_TOKEN = "8311236314:AAG6B3ZQlu1gO1x3Gmp7FH17N9aXaDjmkaY"
     CMD_SUFFIX = ""
     DATABASE_URL = ""
     DEFAULT_UPLOAD = "rc"
